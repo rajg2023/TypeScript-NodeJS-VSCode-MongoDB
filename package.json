@@ -200,7 +200,7 @@
     "inherits": "^2.0.4",
     "ini": "^2.0.0",
     "invariant": "^2.2.4",
-    "ip": "^1.1.5",
+    "ip": "^1.1.9",
     "ipaddr.js": "^1.9.1",
     "is-accessor-descriptor": "^0.1.6",
     "is-binary-path": "^1.0.1",
