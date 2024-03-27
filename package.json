@@ -160,7 +160,7 @@
     "etag": "^1.8.1",
     "expand-brackets": "^0.1.5",
     "expand-range": "^1.8.2",
-    "express": "^4.17.2",
+    "express": "^4.19.2",
     "extend-shallow": "^2.0.1",
     "extglob": "^0.3.2",
     "filename-regex": "^2.0.1",
