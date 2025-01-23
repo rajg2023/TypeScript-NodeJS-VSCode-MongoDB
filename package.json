@@ -248,7 +248,7 @@
     "memory-pager": "^1.5.0",
     "merge-descriptors": "^1.0.1",
     "methods": "^1.1.2",
-    "micromatch": "^2.3.11",
+    "micromatch": "^4.0.8",
     "mime": "^1.6.0",
     "mime-db": "^1.51.0",
     "mime-types": "^2.1.34",
