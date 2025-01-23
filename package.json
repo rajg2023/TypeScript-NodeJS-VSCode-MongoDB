@@ -188,7 +188,7 @@
     "has-values": "^1.0.0",
     "has-yarn": "^2.1.0",
     "home-or-tmp": "^2.0.0",
-    "http-cache-semantics": "^4.1.0",
+    "http-cache-semantics": "^4.1.1",
     "http-errors": "^1.8.1",
     "iconv-lite": "^0.4.24",
     "ieee754": "^1.2.1",
