@@ -327,7 +327,7 @@
     "safe-regex": "^1.1.0",
     "safer-buffer": "^2.1.2",
     "saslprep": "^1.0.3",
-    "semver": "^5.7.1",
+    "semver": "^5.7.2",
     "semver-diff": "^3.1.1",
     "send": "^0.17.2",
     "serve-static": "^1.14.2",
